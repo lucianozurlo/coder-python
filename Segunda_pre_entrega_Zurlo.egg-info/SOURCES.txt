@@ -1,0 +1,10 @@
+setup.py
+Segunda_pre_entrega_Zurlo.egg-info/PKG-INFO
+Segunda_pre_entrega_Zurlo.egg-info/SOURCES.txt
+Segunda_pre_entrega_Zurlo.egg-info/dependency_links.txt
+Segunda_pre_entrega_Zurlo.egg-info/top_level.txt
+ecommerce/__init__.py
+ecommerce/cliente.py
+ecommerce/db_json.py
+ecommerce/persona.py
+primera_pre-entrega/main.py
